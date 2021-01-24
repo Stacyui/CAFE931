@@ -30,9 +30,9 @@
 	  <div class="container">
 		  <h1>MENU</h1>
 	      <div class="menu-icons">
-		    <img src="">
-			<img src="">
-			<img sec="">
+		    <img src="laptop_in931">
+		    <img src="cafe931_bf">
+		    <img sec="lights_up">
 		  </div>
 		  <div class="more-info">
 		    <p>To see more</p>
